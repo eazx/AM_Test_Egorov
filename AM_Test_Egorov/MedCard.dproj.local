@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.320,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\OneDrive\Документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,C:\Users\eappz\Рабочий стол\ARCHIMED\test\PageCardDetailEdit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\uCard.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardDetailEdit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit2.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\uDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,C:\Users\eappz\Рабочий стол\ARCHIMED\test\uDM.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\DM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardDetail.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit2.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\fEditCard.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardValue.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.072,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,C:\Users\eappz\Рабочий стол\ARCHIMED\test\uCard.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Card.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\PageCardDetailEdit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\MCHelpers.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardDetailAdd.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\PageCardDetail.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\uEditCard.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardDetail.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\uEditCard.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Project1.dproj=C:\Users\eappz\OneDrive\Документы\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,C:\Users\eappz\Рабочий стол\ARCHIMED\test\uCard.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\Card.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Project1.dproj=C:\Users\eappz\Рабочий стол\ARCHIMED\test\MedCard.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Card.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.263,C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardDetailEdit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardDetailAdd.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Card.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\CardMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\uCard.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit1.dfm=C:\Users\eappz\OneDrive\Документы\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\eappz\Рабочий стол\ARCHIMED\test\uEditCard.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\eappz\Рабочий стол\ARCHIMED\test\uEditCard.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\eappz\Рабочий стол\ARCHIMED\test\DM.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,C:\Users\eappz\Рабочий стол\ARCHIMED\test\uDM.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\DM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\eappz\Рабочий стол\ARCHIMED\test\DM.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,C:\Users\eappz\Рабочий стол\ARCHIMED\test\fEditCard.pas=C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,=C:\Users\eappz\OneDrive\Документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,C:\Users\eappz\Рабочий стол\ARCHIMED\test\fEditCard.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\EditCard.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,=C:\Users\eappz\OneDrive\Документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit2.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\uDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,C:\Users\eappz\Рабочий стол\ARCHIMED\test\Unit2.dfm=C:\Users\eappz\Рабочий стол\ARCHIMED\test\fEditCard.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
